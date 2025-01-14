@@ -2,7 +2,7 @@
 
 `GP2 ❤️ Open Science 😍`
 
-Pending DOI
+[![DOI](https://zenodo.org/badge/916770992.svg)](https://doi.org/10.5281/zenodo.14647637)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Last Updated:** January 2025
@@ -19,7 +19,7 @@ All data used in this study are from **release 6 GP2 data** (GP2 realease 6, DOI
 If you use this repository or find it helpful for your research, please cite the corresponding manuscript:
 
 > **Genome-wide assessment identifies novel runs of homozygosity linked to Parkinson’s disease etiology across diverse ancestral populations.**  
-> *[Authors, Year]*
+> *[Authors, Year]* (DOI: 10.5281/zenodo.14647637)
 
 
 ---
