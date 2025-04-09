@@ -5,7 +5,7 @@
 [![DOI](https://zenodo.org/badge/916770992.svg)](https://doi.org/10.5281/zenodo.14647637)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Last Updated:** January 2025
+**Last Updated:** April 2025
 
 ## Summary
 This repository contains the code, data workflows, and results associated with the manuscript titled ***"Genome-wide assessment identifies novel runs of homozygosity linked to Parkinson’s disease etiology across diverse ancestral populations."*** The study investigates population-specific patterns of Runs of Homozygosity (ROH) and their potential links to Parkinson’s disease (PD) etiology across nine ancestral groups.
